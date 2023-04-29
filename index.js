@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path'); //I learned this after googling "path not defined"
 const inquirer = require('inquirer');
-
+const generateMarkdown = require('./utils/generateMarkdown.js');
 
 const questions = [
     {
@@ -56,3 +56,7 @@ const questions = [
         message: 'Please enter a valid Github USERNAME:',
     },
 ];
+
+function writeToFile(fileName, data) {
+    return fs.writeFileSync(path.join(process.cwd(), fileName), data);
+}
