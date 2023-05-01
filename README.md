@@ -12,24 +12,24 @@
   * [Questions](#questions)
 
   ## Description
-  The content herein contains resources for this project, and this project functions as a easy generator for professional README files for your repositories.
+  the content is awesome and it functions just fine
 
   ## Installation
-  First, open the file in your favorite editor. Then, in your command line, type 'node index' and hit ENTER to initialize program.
+  stuff
 
   ## Usage
-  As a way to create my README files for future repositories via node.js
+  to do things
 
   ## License
     This project is licensed under the MIT license.
 
   ## Contributing
-  N/A
+  nope
 
   ## Tests
-  N/A
+  nope
 
   ## Questions/Contact Me
-  If you have any questions about the repo, open an issue or contact me directly at brandonsebastian@gmail.com, or
-  You can find me on GitHub at [nooburger81](https://github.com/nooburger81)
+  If you have any questions about the repo, open an issue or contact me directly at brandon, or
+  You can find me on GitHub at [brandon](https://github.com/brandon)
 
