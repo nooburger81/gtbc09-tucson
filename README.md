@@ -19,7 +19,9 @@
 
   ## Usage
   As a way to create my README files for future repositories via node.js.
-
+  
+  Link to walkthrough video: https://watch.screencastify.com/v/V86kyfUaYxuL9oPRYDWH
+  
   ## License
     This project is licensed under the MIT license.
 
