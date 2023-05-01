@@ -12,7 +12,7 @@
   * [Questions](#questions)
 
   ## Description
-  the content herein contains resources for this project, and this project functions as an easy generator for professional README files for your repositories.
+  The content herein contains resources for this project, and this project functions as an easy generator for professional README files for your repositories.
 
   ## Installation
   First, open the file in your favorite editor. Then, in the command line, type "node index" and hit ENTER to initialize program.
